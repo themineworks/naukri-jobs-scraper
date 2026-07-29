@@ -1,0 +1,14 @@
+{
+  "name": "naukri-jobs-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/naukri-jobs Apify actor",
+  "main": "naukri_jobs_scraper.mjs",
+  "scripts": {
+    "start": "node naukri_jobs_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}
