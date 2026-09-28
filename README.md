@@ -5,7 +5,7 @@ Scrape Naukri.com job listings: title, company, salary (normalised to lakhs per 
 **Run it on Apify:** [apify.com/themineworks/naukri-jobs](https://apify.com/themineworks/naukri-jobs)
 **Docs, FAQ and pricing:** [themineworks.com/actors/naukri-jobs](https://themineworks.com/actors/naukri-jobs/)
 
-**Price:** $1.40 per 1,000 jobs on Apify's free plan, down to $0.84 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $0.84 per 1,000 jobs on Apify's higher plans ($1.40 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Scrape Naukri.com job listings: title, company, salary (normalised to lakhs per 
 * Experience range and required skills
 * Location, work mode (WFH/hybrid/office)
 * Direct application URL per listing
-* Zero charge on empty searches
+* Empty results are never charged
 
 ## Quick start
 
@@ -156,7 +156,7 @@ Each run fetches live results from Naukri.com at the time of execution. Job list
 
 ### How much does the Naukri Job Scraper cost?
 
-$1.40 per 1,000 jobs on Apify's free plan, down to $0.84 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $0.84 per 1,000 jobs on Apify's higher plans ($1.40 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
